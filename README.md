@@ -1,13 +1,15 @@
 
 
-**Hi, I’m Tim** 👋 
-- 👀 I’m interested in data science, data analysis, data-driven solutions, and human decision-making.
-- 🌱 I use Python and R on a daily basis and I’m currently learning SQL.
+<h1 align="center">Hi 👋, I'm Tim</h1>
+<h3 align="center">A PhD-trained computational neuroscientist with 9 years of data science experience with large-scale biomedical and behavioral research data</h3>
 
-- Connect with me on:
-[linkedin.com/tbweng](https://linkedin.com/tbweng)
+- 👀 I am interested in all things **data**. 
+- 🌱 I use **Python** and **R** on a daily basis and I am currently learning **SQL**.
+- Outside of work, I enjoy trail running, cooking, and home improvement projects.
 
-[![tbweng's GitHub stats](https://github-readme-stats.vercel.app/api?username=tbweng&include_all_commits=true&count_private=true&show_icons=true&theme=radical&hide=contribs)](https://github.com/tbweng/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tbweng&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&locale=en" alt="tbweng" /></p>
+
 
 <!---
 tbweng/tbweng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
