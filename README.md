@@ -1,13 +1,16 @@
 
 
-<h1 align="center">Hi 👋, I'm Tim</h1>
-<h3 align="center">A PhD-trained computational neuroscientist with 9 years of data science experience with large-scale biomedical and behavioral research data</h3>
+# Hi 👋, I'm Tim
+### A PhD-trained computational neuroscientist with 9 years of data science experience with large-scale biomedical and behavioral research data
 
 - 👀 I am interested in all things **data**. 
 - 🌱 I use **Python** and **R** on a daily basis and I am currently learning **SQL**.
 - Outside of work, I enjoy trail running, cooking, and home improvement projects.
 
+- E-mail: tbweng@gmail.com
+- LinkedIn: [linkedin.com/tbweng](https://linkedin.com/tbweng)
 
+For a full list of my publications (15+ articles, 500+ citations), please see my [Google Scholar](https://scholar.google.com/citations?user=FLqI1VQAAAAJ).
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tbweng&include_all_commits=true&count_private=true&show_icons=true&hide=contribs&locale=en" alt="tbweng" /></p>
 
 
