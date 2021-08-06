@@ -1,6 +1,6 @@
 
 
-** Hi, I’m Tim **👋 
+**Hi, I’m Tim** 👋 
 - 👀 I’m interested in data science, data analysis, data-driven solutions, and human decision-making.
 - 🌱 I use Python and R on a daily basis and I’m currently learning SQL.
 
