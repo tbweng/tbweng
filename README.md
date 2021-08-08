@@ -5,7 +5,6 @@
 
 - 👀 I am interested in all things **data**. 
 - 🌱 I use **Python** and **R** on a daily basis and I am currently learning **SQL**.
-- Outside of work, I enjoy trail running, cooking, and home improvement projects.
 
 - E-mail: tbweng@gmail.com
 - LinkedIn: [linkedin.com/tbweng](https://linkedin.com/tbweng)
