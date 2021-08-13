@@ -3,8 +3,8 @@
 # Hi 👋, I'm Tim
 ### A PhD-trained computational neuroscientist with 9 years of data science experience with large-scale biomedical and behavioral research data
 
-- 👀 I am interested in all things **data**. 
-- 🌱 I use **Python** and **R** on a daily basis and I am currently learning **SQL**.
+- 👀  I am interested in all things **data**. 
+- 🌱  I use **Python** and **R** on a daily basis and I am currently learning **SQL**.
 
 - E-mail: tbweng@gmail.com
 - LinkedIn: [linkedin.com/tbweng](https://linkedin.com/tbweng)
