@@ -1,7 +1,7 @@
 
 
 # Hi 👋, I'm Tim
-### A PhD-trained computational neuroscientist with 9 years of data science experience with large-scale biomedical and behavioral research data
+### A PhD-trained computational neuroscientist with 10+ years of data science experience with large-scale biomedical and behavioral research data
 
 - 👀  I am interested in all things **data**. 
 - 🌱  I use **Python** and **R** for day-to-day operations.
